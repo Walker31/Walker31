@@ -9,8 +9,8 @@ Hi, I'm **Aditya** from Chennai! I'm a student at **NIT Trichy**, passionate **A
 - **Spark**: Another attendance tracking app built using flutter, with extra features like maintaining short notes and storing class schedules.
 - **Ongoing Learning**: Operating systems, DSA, React.js for web development.
 
-<h3 align="left">Connect & Collaborate:</h3>
-<p>I'm always open to new opportunities and collaborations! Feel free to contact me via my [LinkedIn profile](https://www.linkedin.com/in/aditya-janga-3a029b253/?trk=opento_sprofile_details&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BgZ%2FUHgYJRnSusSW%2FPyDGjw%3D%3D) if you'd like to work together.</p>
+### 🤝 Connect & Collaborate
+I'm always open to new opportunities and collaborations! Feel free to contact me via my [LinkedIn profile](https://www.linkedin.com/in/aditya-janga-3a029b253/?trk=opento_sprofile_details&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BgZ%2FUHgYJRnSusSW%2FPyDGjw%3D%3D) if you'd like to work together.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
