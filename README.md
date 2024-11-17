@@ -1,6 +1,11 @@
+<img src="https://miro.medium.com/v2/resize:fit:1358/1*dYDr1VCVjRpqa4osu4OUoQ.png" alt="Header">
+
 # 👋 About Me
 
-Hi, I'm **Aditya** from Chennai! I'm a student at **NIT Trichy**, passionate **App Developer**, and I'm constantly enhancing my skills through self-learning.
+Hi, I'm **Aditya** from Chennai! I'm a student at **NIT Trichy** and a passionate **App Developer**.
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 
 ### 💻 Current Projects & Interests
 - **Portfolio Website & App**: Building my personal portfolio to showcase projects.
