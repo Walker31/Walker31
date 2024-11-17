@@ -1,15 +1,16 @@
 # 👋 About Me
 
-Hi, I'm **Aditya** from Chennai! I'm a student at **NIT Trichy**, passionate about **problem-solving** and **app development**, and I'm constantly enhancing my skills through self-learning.
+Hi, I'm **Aditya** from Chennai! I'm a student at **NIT Trichy**, passionate **App Developer**, and I'm constantly enhancing my skills through self-learning.
 
 ### 🛠️ Skills & Expertise
-- **Programming Languages**: C, C++, Java, Python
-- **Technologies & Frameworks**: Flutter, Python Flask, MongoDB, HTML, CSS, Bootstrap
-- **Development Experience**: Real-time chat apps, cross-platform app development
+- **Programming Languages**: C, C++, Java, Python, Kotlin
+- **Technologies & Frameworks**: Flutter, Python Flask, MongoDB, HTML, CSS, Bootstrap, Android Studio, ReactJs
 
 ### 💻 Current Projects & Interests
 - **Portfolio Website & App**: Building my personal portfolio for showcasing projects.
 - **Lynk-To**: A real-time chat app tailored for NIT Trichy students, featuring event auto-updates via LangChain and database management with MySQL.
+- **ATrack**: An attendance tracking app for students, built in **Android Studio** using **Jetpack Compose**.
+- **Spark**: Another attendance tracking app built using flutter, with extra features like maintaining short notes and storing class schedules.
 - **Ongoing Learning**: Operating systems, DSA, React.js for web development.
 
 ### 🤝 Connect & Collaborate
